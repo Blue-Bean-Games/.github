@@ -19,3 +19,8 @@ https://discord.com/invite/ymddbRGxH9
 Patreon:
 </samp>
 https://www.patreon.com/bluebeangames
+<br /><br />
+<samp>
+Twitter:
+</samp>
+https://twitter.com/blue_bean_games
