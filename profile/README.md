@@ -1,3 +1,7 @@
+> **We _mostly_ work over at our [GitLab](https://gitlab.com/blue-bean-games), so go check that out instead if you're looking for more than just reading our code! 🙂**
+> 
+> https://gitlab.com/blue-bean-games
+
 <samp>
 Blue Bean Games is a newly-formed game studio that believes in the power of open-source software. All of our work is completely dedicated to the public domain from company literature to video games.
 </samp>
